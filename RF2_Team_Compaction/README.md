@@ -1,4 +1,4 @@
-#Team_Info
+# Team_Info
 
 Team Member (Github ID)
 - 고산하(headF1rst), 김정민(JeongMin-98), 이성준(castlejun-2)
