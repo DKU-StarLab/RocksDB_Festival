@@ -11,6 +11,10 @@ Members
 - Assistant : 신호진, 이성현
 - Professor : 최종무, 유시환
 
+Contact US
+- Professor : choijm@dankook.ac.kr(최종무), seehwan.yoo@dankook.ac.kr(유시환)
+- Assistant : ghwls03s@gmail.com(신호진), wwbabaww@gmail.com()
+
 Meeting Date
 - 1 time/ 1 week (One for study and research)
 - Kickoff meeting: 2021년 07월 05일 (Mon) 1 p.m., 미디어센터 508호
