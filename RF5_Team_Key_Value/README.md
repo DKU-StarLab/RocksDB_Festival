@@ -5,4 +5,4 @@ Team Member (Github ID)
 - gardenlee960828@gmail.com, guangxun0621@naver.com, koreachoi96@gmail.com
 
 Team Research
-- Key/Value
+- Layout/BlobDB
