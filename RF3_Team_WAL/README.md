@@ -1,4 +1,4 @@
-# Team_Info
+# Team_WAL
 
 Team Member (Github ID)
 - 김민준(Sadsprin), 이빈(Bynnn)
